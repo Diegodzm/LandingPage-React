@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.cuadroCarta{
+  height:200px;
+  font-size: 30px;
+  color: white;
+}
+.copywriteCss{
+ 
+  height: 50px;
+  color: white;
+
+}
